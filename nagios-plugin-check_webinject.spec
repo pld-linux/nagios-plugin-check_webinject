@@ -7,7 +7,7 @@ Release:	1
 License:	GPL v2+
 Group:		Networking
 Source0:	https://labs.consol.de/assets/downloads/%{plugin}-%{version}.tar.gz
-# Source0-md5:	eafe5829884d6a2f922ee540bcc6d169
+# Source0-md5:	bbf409153bb46e6beb25b4b3395c911e
 Source1:	%{plugin}.cfg
 URL:		https://labs.consol.de/nagios/check_webinject/
 BuildRequires:	rpm-perlprov >= 4.1-13
