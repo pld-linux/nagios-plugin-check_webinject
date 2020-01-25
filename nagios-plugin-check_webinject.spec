@@ -1,5 +1,4 @@
 %define		plugin	check_webinject
-%include	/usr/lib/rpm/macros.perl
 Summary:	Nagios plugin for testing web services
 Name:		nagios-plugin-%{plugin}
 Version:	1.84
